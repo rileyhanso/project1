@@ -1,4 +1,5 @@
 #include <stdio.h>
+<<<<<<< HEAD
 //Maybe include functions here to make some cool code
 int main () {
     
@@ -39,6 +40,7 @@ int main () {
         default :
             printf("Good one, you managed to not pick one of the above numbers, please try again\n"); 
     }
+
     
 return 0;
 }
